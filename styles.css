@@ -1,0 +1,31 @@
+body {
+  background-color: #eaf6f6;
+}
+
+hr {
+  border-color: grey;
+  border-style: none;
+  /* border style of whole set none */
+  border-top-style: dotted;
+  /* border style of top specifically set to dotted */
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  color: #07c0c0;
+}
+
+h3 {
+  color: #017e7e;
+}
+
+/* underlying ones are examples of classes*/
+/* one tag can have multiple classes
+.profile {
+  color: #07c0c0;
+} */
+/* 
+.profileCursive:hover{
+  font-style: italic;
+} */
